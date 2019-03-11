@@ -1,0 +1,51 @@
+.content {
+  	max-width: 900px;
+  	margin: auto;
+ }
+ .desc{
+  	font-size:12px;
+  	color:  #000;
+  	opacity:  .65; 
+  	font-family: verdana;;	
+}
+.main_body{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: E5F2F3;
+	border-radius: 50px;
+}			
+img {
+	float : right;
+}
+h4,h3 {
+	font-size:  20px; 
+	font-weight:  600; 
+	color:  #000; 
+}
+h3 {
+	color:  #048; 
+}
+th{
+	background-color: #005;
+	color: white;
+}
+#academic_details tr:hover{
+	background-color: #717987;
+}
+table{
+	width:100%;
+}
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#academic_details tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+ul{
+  	list-style-type: circle;
+}
