@@ -2,6 +2,9 @@
   	max-width: 900px;
   	margin: auto;
  }
+body{
+ 	background-image: url("background.jpg");
+ }
  .desc{
   	font-size:12px;
   	color:  #000;
