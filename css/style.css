@@ -3,7 +3,7 @@
   	margin: auto;
  }
 body{
- 	background-image: url("image/background.jpg");
+ 	background-image: url("../image/background.jpg");
  }
  .desc{
   	font-size:12px;
